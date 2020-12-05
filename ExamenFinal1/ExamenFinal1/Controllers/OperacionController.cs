@@ -26,6 +26,5 @@ namespace ExamenFinal1.Controllers
                 return $"{numero}";
             }
         }
-
     }
 }
