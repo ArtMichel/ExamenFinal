@@ -12,5 +12,7 @@ namespace ExamenFinal1.Models
         {
 
         }
+
+        public System.Data.Entity.DbSet<ExamenFinal1.Models.operación> operación { get; set; }
     }
 }
